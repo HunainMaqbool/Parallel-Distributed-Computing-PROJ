@@ -1,6 +1,4 @@
-Here is a complete, professional GitHub `README.md` description tailored for your project based on the Jupyter notebook provided.
 
----
 
 # Multi-Device Deep Learning: CPU vs. GPU (CUDA) Performance Analysis
 
